@@ -6,6 +6,10 @@ It can add the user to a Microsoft 365 mailing list (typically your all@ mail) b
 
 It will also create a TAP (temporary access pass) or allow you to create a TAP for an existing user.
 
+# pre-reqs
+
+The script is looking for an icon on the path /Library/Application Support/$companyName/display-icon.png or it will use the Azure icon from this repo.
+
 # coming
 adding an available license
 
